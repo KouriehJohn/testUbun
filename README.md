@@ -17,4 +17,7 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 Import code
 
+1-10: added a file for scripts as well as css folders. Updated the destination htm file to be linked to the new css and js files.
+Testing to see if I can commit through VS code as well as a secondary test through the terminal alone.
+
 # testUbun
