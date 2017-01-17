@@ -16,11 +16,7 @@ git push -u origin master
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 Import code
-
-1-10: added a file for scripts as well as css folders. Updated the destination htm file to be linked to the new css and js files.
-1-11: 5:15pm. I can work this through VS code. Push test through terminal next.
-I removed three (3) "!'s" on the HTML, CSS, Javascript tags to make a change. Plus removed a main htm.
- 
+1-17: Testing.
 
 
 # testUbun
